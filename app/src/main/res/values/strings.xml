@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab08-Notes with DB-393-Gavrilov</string>
+    <string name="lab_new">New</string>
+    <string name="lab_save">Save</string>
+    <string name="lab_delete">Delete</string>
+</resources>
+
+
